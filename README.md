@@ -13,7 +13,7 @@ Below is a summary of key performance metrics comparing our model with other sta
 | EDGE           | 1.53     | 23.08    | 0.27            |
 | **Our Model**  | **0.98** | **22.89** | **0.29**       |
 
-- **PFC**: Per-frame consistency (lower is better)  
+- **PFC**: Physical Foot Contact score (lower is better)  
 - **FID**: Fréchet Inception Distance (lower is better)  
 - **Beat Score**: Alignment of generated dance with musical beats (higher is better)
 
